@@ -10,11 +10,8 @@
 
 * Basic `Banner` is added as well. 
 
-* [Click Here for Live Link / Website  (Netlify)](https://www.netlify.app/)
+* [Click Here for Live Link / Website  (Firebase)](https://city-psychiatric-hospital.web.app/)
 
-* Screenshot of Live Site -
-
-![alt text](public/demo.png)
 
 
 ### Technology Used
