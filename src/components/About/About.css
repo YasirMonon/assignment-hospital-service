@@ -1,0 +1,55 @@
+.about__image {
+    position: relative;
+}
+.about__text {
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    transform: translateY(-50%);
+   
+}
+.about__title {
+    font-size: 50px;
+
+}
+.about-content {
+    margin-top: 100px;
+}
+.about-content__title {
+    border-left: 3px solid #7b7ad8;
+    display: inline-block;
+    padding-left: 5px;
+}
+.about-content__sub-title {
+    font-size: 70px;
+    color: #7b7ad8;
+    padding: 30px 0px;
+}
+.about-service
+ {
+    background:#DAEBFB;
+    padding: 40px 0px;
+    margin-top: 100px;
+}
+.about-content__email {
+    background: white;
+    padding: 10px;
+    margin-top: 40px;
+}
+
+
+/* responsive */
+
+@media(max-width:400px){
+    .about-content__sub-title {
+        font-size: 38px;
+        color: #7b7ad8;
+        padding: 30px 0px;
+    }
+    .about-content__sub-title {
+        font-size: 48px;
+        color: #7b7ad8;
+        padding: 30px 0px;
+    }
+}
+

@@ -1,0 +1,13 @@
+.footer {
+    margin-top: 100px;
+    background: #223645;
+    padding: 70px 0px;
+    
+}
+.footer__title {
+    color: white;
+}
+.footer__text {
+    color:#c7c7c7;
+    text-align: justify;
+}

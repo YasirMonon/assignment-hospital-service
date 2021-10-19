@@ -1,0 +1,24 @@
+.facility__title {
+    font-size: 40px;
+    color: #7b7ad8;
+    text-align: center;
+    margin-top: 75px;
+}
+
+
+.facility {
+    margin-top: 100px;
+}
+.facility__name {
+    color: #7b7ad8;
+    font-size: 30px;
+}
+.facility__position{
+    font-size: 20px;
+}
+.facility__btn {
+    padding: 10px;
+    background: #7b7ad8;
+    border: none;
+    color: white;
+}

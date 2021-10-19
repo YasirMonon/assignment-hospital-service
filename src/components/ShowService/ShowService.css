@@ -1,0 +1,15 @@
+.service__btn{
+    padding: 10px 30px;
+    background: #7b7ad8;
+    border: none;
+    color: white;
+    font-size: 18px;
+}
+.service__header {
+    color: #7b7ad8;
+    font-size: 30px;
+
+}
+.service__text {
+    text-align: justify;
+}

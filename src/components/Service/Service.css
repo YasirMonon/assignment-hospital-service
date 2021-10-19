@@ -1,0 +1,36 @@
+.service__center {
+    text-align: center;
+    text-transform: uppercase;
+    color: #7b7ad8;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.service__title {
+   
+    position: relative;
+    display: inline;
+    padding: 0px 10px;
+   
+}
+.service__title::after{
+    position: absolute;
+    top: 50%;
+    left: 100%;
+    transform: translateY(-50%);
+    width: 100px;
+    height: 3px;
+    background: #7b7ad8;
+   
+    
+}
+.service__title::before{
+    position: absolute;
+    top: 50%;
+    right: 100%;
+    transform: translateY(-50%);
+    width: 100px;
+    height: 3px;
+    background: #7b7ad8;
+   
+    
+}
