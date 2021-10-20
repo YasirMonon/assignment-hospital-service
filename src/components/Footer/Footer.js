@@ -7,7 +7,7 @@ const Footer = () => {
             <footer className="p-6 dark:bg-coolGray-800 dark:text-coolGray-100">
                 <div className="container grid grid-cols-2 mx-auto gap-x-3 gap-y-8 sm:grid-cols-3 md:grid-cols-4">
                     <div className="flex flex-col space-y-4">
-                        <h2 className="font-medium text-indigo-600">Guidelines <i className="fas fa-book-open"></i> </h2>
+                        <h2 className="font-medium text-indigo-400">Guidelines <i className="fas fa-book-open"></i> </h2>
                         <div className="flex flex-col space-y-2 text-sm dark:text-coolGray-400">
                             <NavLink to="/home">Contact Us </NavLink>
                             <NavLink to="/home">First Aid </NavLink>
@@ -19,7 +19,7 @@ const Footer = () => {
                         </div>
                     </div>
                     <div className="flex flex-col space-y-4">
-                        <h2 className="font-medium text-indigo-600">About US <i className="fas fa-globe"></i> </h2>
+                        <h2 className="font-medium text-indigo-400">About US <i className="fas fa-globe"></i> </h2>
                         <div className="flex flex-col space-y-2 text-sm dark:text-coolGray-400">
                             <NavLink to="/about">About Hospital </NavLink>
                             <NavLink to="/about">History </NavLink>
@@ -31,7 +31,7 @@ const Footer = () => {
                         </div>
                     </div>
                     <div className="flex flex-col space-y-4">
-                        <h2 className="font-medium text-indigo-600">Career <i className="fas fa-graduation-cap"></i> </h2>
+                        <h2 className="font-medium text-indigo-400">Career <i className="fas fa-graduation-cap"></i> </h2>
                         <div className="flex flex-col space-y-2 text-sm dark:text-coolGray-400">
                             <NavLink to="/home">Jobs </NavLink>
                             <NavLink to="/home">Training </NavLink>
@@ -43,7 +43,7 @@ const Footer = () => {
                         </div>
                     </div>
                     <div className="flex flex-col space-y-4">
-                        <h2 className="font-medium text-indigo-600">Social <i className="fas fa-users"></i> </h2>
+                        <h2 className="font-medium text-indigo-400">Social <i className="fas fa-users"></i> </h2>
                         <div className="flex flex-col space-y-2 text-sm dark:text-coolGray-400">
                             <NavLink to="#">Youtube </NavLink>
                             <NavLink to="#">Facebook </NavLink>
@@ -53,7 +53,7 @@ const Footer = () => {
                     </div>
                 </div>
                 <div className="flex items-center justify-center px-6 pt-12 text-sm">
-                    <span className="text-indigo-600">© City Psychiatric Hospital Copyright 2021. All Rights Reserved.</span>
+                    <span className="text-indigo-400">© City Psychiatric Hospital Copyright 2021. All Rights Reserved.</span>
                 </div>
             </footer>
         </div>

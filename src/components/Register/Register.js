@@ -23,7 +23,7 @@ const Register = () => {
                     <input type="text" name="" id="" placeholder="Enter Your Name" className="input__field" onBlur={(e) => setName(e.target.value)} />
                     <input type="email" name="" id="" placeholder="Enter Your Email" className="input__field" onBlur={(e) => setEmail(e.target.value)} />
                     <input type="password" name="" id="" placeholder="Enter Your Password" className="input__field" onBlur={(e) => setPassword(e.target.value)} />
-                    <button type="submit" className="registration__btn">registration</button>
+                    <button type="submit" className="registration__btn">Register</button>
                 </form>
                 <div className="text-center">
                     <h6 className="registration__or">OR</h6>
