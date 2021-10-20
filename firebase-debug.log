@@ -1,0 +1,25 @@
+[debug] [2021-10-20T12:48:46.731Z] ----------------------------------------------------------------------
+[debug] [2021-10-20T12:48:46.734Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\monon\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init hosting
+[debug] [2021-10-20T12:48:46.734Z] CLI Version:   9.20.0
+[debug] [2021-10-20T12:48:46.734Z] Platform:      win32
+[debug] [2021-10-20T12:48:46.734Z] Node Version:  v14.17.1
+[debug] [2021-10-20T12:48:46.739Z] Time:          Wed Oct 20 2021 18:48:46 GMT+0600 (Bangladesh Standard Time)
+[debug] [2021-10-20T12:48:46.739Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-10-20T12:48:46.799Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-10-20T12:48:46.800Z] > authorizing via signed-in user (shakkhorsignature@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  E:\projects\React Js\ass-try-10\Test\New folder\health-care\health-care-app-main
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+

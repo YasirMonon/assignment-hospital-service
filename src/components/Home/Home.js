@@ -1,5 +1,4 @@
 import React from 'react'
-import { Accordion } from 'react-bootstrap'
 import Banner from '../Banner/Banner'
 import OurFacility from '../OurFacility/OurFacility'
 import Service from '../Service/Service'

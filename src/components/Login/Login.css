@@ -1,7 +1,7 @@
 .registration {
     width: 500px;
-    margin: 0 auto;
-    padding: 30px;
+    margin: 30px auto;
+    padding-top: 30px;
     box-shadow: 3px 0 12px rgba(0, 0, 0, 0.4)  ; 
 	-webkit-box-shadow: 3px 0 12px rgba(0, 0, 0, 0.4)  ; 
 	-moz-box-shadow: 3px 0 12px rgba(0, 0, 0, 0.4)  ; 

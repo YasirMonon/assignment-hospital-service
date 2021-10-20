@@ -14,7 +14,7 @@ const ShowFacility = (props) => {
                     <Card.Title className="facility__position">{position}</Card.Title>
                     <Card.Text>{dec}</Card.Text>
                     <Link to={`/DetailFacility/${id}`}>
-                        <Button variant="warning" className="facility__btn w-100">Show Details</Button>
+                        <Button variant="warning" className="facility__btn w-100">Details    <i className="fas fa-stethoscope"></i></Button>
                     </Link>
 
                 </Card.Body>

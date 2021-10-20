@@ -24,7 +24,7 @@ const Banner = () => {
                         <p className="carousel-text__des d-none d-md-block">
                             This is City Psychiatric Hospital.you privide all health related service.we have lot of skilled doctor in this hospital.we bleve this health is everay thing of life.
                         </p>
-                        <Link to="/login"><button className="carousel-text__btn">Visit Services</button></Link>
+                        <Link to="/login"><button class="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Subscribe</button></Link>
                     </div>
                 </Carousel.Item>
                 <Carousel.Item>
@@ -39,7 +39,7 @@ const Banner = () => {
                         <p className="carousel-text__des d-none d-md-block">
                             This is City Psychiatric Hospital.you privide all health related service.we have lot of skilled doctor in this hospital.we bleve this health is everay thing of life.
                         </p>
-                        <Link to="/login"><button className="carousel-text__btn">Visit Services</button></Link>
+                        <Link to="/login"><button class="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Subscribe</button></Link>
 
                     </div>
 
@@ -56,7 +56,7 @@ const Banner = () => {
                         <p className="carousel-text__des d-none d-md-block">
                             This is City Psychiatric Hospital.you privide all health related service.we have lot of skilled doctor in this hospital.we bleve this health is everay thing of life.
                         </p>
-                        <Link to="/login"><button className="carousel-text__btn">Visit Services</button></Link>
+                        <Link to="/login"><button class="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Subscribe</button></Link>
                     </div>
 
 

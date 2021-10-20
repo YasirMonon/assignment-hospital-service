@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Acute Psychiatry",
+    "position": "Dr.Suzanne Bird",
+    "src": "https://i.ibb.co/VmGjxQH/1.png",
+    "dec": "We believe psychiatric emergencies are medical emergencies. And the best acute psychiatric and internationally recognized expert care is delivered when patients are treated in a less stressful, less restrictive setting."
+  },
+  {
+    "id": 2,
+    "name": "Addiction Psychiatry",
+    "position": "Dr. Shelly Greenfield",
+    "src": "https://i.ibb.co/D7WzMSV/2.png",
+    "dec": "Led by Our Internationally recognized Acute and Psychiatry practice's transformed the standard of care for patients in behavioral health crisis and alleviated care delays and crowding in hospitals."
+  },
+  {
+    "id": 3,
+    "name": "Behavioral Health",
+    "position": "Dr. Throstur Bjorgvinsson",
+    "src": "https://i.ibb.co/QCD3ft2/3.png",
+    "dec": "Together we are transforming the way healthcare is delivered to create a better world with better access to quality, affordable care for all—where providers feel connected and successful. "
+  },
+  {
+    "id": 4,
+    "name": " Inpatient Psychiatry ",
+    "position": "Dr. Stuart Beck",
+    "src": "https://i.ibb.co/th3c4JC/4.png",
+    "dec": "We consider ourselves one team and our team spans skill sets, passions. Developing a culture of caring is something we take seriously and includes the empathy and care we show our to each other."
+  },
+  {
+    "id": 5,
+    "name": "Consultation-Liaison ",
+    "position": "Dr. Felicia Smith",
+    "src": "https://i.ibb.co/jZz9rz3/5.png",
+    "dec": "We believe healthcare is more than a business. With our collective vast experience spanning nearly 50 years, we’re able to develop and graduate new pathways to better care with the future in mind. "
+  },
+  {
+    "id": 6,
+    "name": "Compulsive Disorder",
+    "position": "Dr. Darin Dougherty",
+    "src": "https://i.ibb.co/nc1RLY7/6.png",
+    "dec": "We believe psychiatric emergencies are medical emergencies. And the best acute psychiatric and internationally recognized expert care is delivered when patients are treated in a less stressful, less restrictive setting."
+  }
+]
