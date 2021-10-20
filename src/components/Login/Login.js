@@ -75,31 +75,3 @@ const Login = () => {
     )
 };
 export default Login;
-//
-//     return (
-//         <div className="loginArea">
-//             <div className="container">
-//                 <div className="row">
-//                     <div className="col-lg-6 col-md-6 col-sm-12">
-//                         <div className="imageDemo">
-//                             <img src={Banner} alt="banner" />
-//                         </div>
-//                     </div>
-//                     <div className="col-lg-5 col-md-6 col-sm-12">
-//                         <div className="loginForm">
-//                             <h2 className="doctorName">Connect with doctors</h2>
-//                             <form onSubmit={handleSignin}>
-//                                 <input type="email" onBlur={handleEmail} placeholder="Enter your email" /> <br />
-//                                 <input type="password" onBlur={handlePassword} placeholder="Enter your password" /> <br />
-//                                 <button className="submitBtn">Login</button> <br />
-//                                 <span onClick={handleGoogleLogin} className="apiProvider"><img src={GoogleIcon} alt="apiImg" />Singin with Google</span>
-//                                 <span onClick={handleGithubLogin} className="apiProvider"><img src={GithubIcon} alt="apiImg" />Github</span>
-//                             </form> <br />
-//                             <span style={{ color: "#444", fontWeight: "500", marginTop: "10px" }}>Are you new user ? <Link to="/registration"> Get started</Link></span>
-//                         </div>
-//                     </div>
-//                 </div>
-//             </div>
-//         </div>
-//     );
-// };

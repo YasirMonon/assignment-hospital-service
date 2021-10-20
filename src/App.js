@@ -33,7 +33,7 @@ function App() {
             <PrivateRoute path="/DetailFacility/:id" exact>
               <DetailFacility />
             </PrivateRoute>
-            <Route path="/*" exact component={NotFound} />
+            <Route path="*" exact component={NotFound} />
           </Switch>
           <Footer />
         </Router>
